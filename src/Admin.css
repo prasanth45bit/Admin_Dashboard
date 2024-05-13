@@ -1,0 +1,102 @@
+
+
+img
+{
+    width: 20%;
+    height: 16%;
+    text-align: center;
+}
+.dmain
+{
+    background-color: rgb(250, 253, 253);
+    width: 1200px;
+    height: 650px;
+    margin-top: 5%;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    margin-left: 230px;
+}
+.fmain
+{
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.pc
+{
+  height: 170px;
+  width: 170px;
+  background-repeat: no-repeat;
+  background-color: rgb(214, 234, 244);
+  border-radius: 20px;
+  
+}
+.pc:hover
+{
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.c
+{
+  padding: 8px;
+  
+}
+.flexcon
+{
+  display: flex;
+  flex-direction: row;
+  padding-top: -10px;
+  gap: 30px;
+  padding-left: 20px;
+}
+.chartback
+{
+  height: 345px;
+  width: 770px;
+  background-repeat: no-repeat;
+  background-color: rgb(74, 175, 230);
+  border-radius: 20px;
+  margin-left: -160px;
+  margin-top: -30px;
+}
+.end
+{
+  height: 560px;
+  width: 350px;
+  background-repeat: no-repeat;
+  background-color: rgb(74, 175, 230);
+  border-radius: 20px;
+  margin: 2%;
+  
+}
+.icon
+{
+  height: 40px;
+  width: 40px;
+  background-color: black;
+  border-radius: 15px;
+}
+.flexcontainer
+{
+  margin-top: 20px;
+  margin-left: 180px;
+}
+.na
+{
+  margin-left: 20px;
+}
+.text
+{
+  margin-top:20px ;
+  color: #e108d6;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  margin-top: 30px;
+  font-size: larger;
+}
+.text1
+{
+  color: rgb(228, 84, 190);
+
+}
